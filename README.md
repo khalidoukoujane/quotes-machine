@@ -12,4 +12,6 @@ Random Quote Generator is a simple and fun web application that generates random
 - HTML
 - CSS
 - React
+## Demo 
+[Go](https://random-quotes-machin.netlify.app/)
 
