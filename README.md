@@ -1,12 +1,7 @@
 # Random Quote Generator
-
-Random Quote Generator is a simple and fun web application that generates random quotes and lets you share them
-
+This project is for FreeCodeCamp 
 ## Technologies Used
-
-- HTML
-- CSS
-- React
+- ReactJS
 ## Demo 
-[Go](https://random-quotes-machin.netlify.app/)
+[click here](https://random-quotes-machin.netlify.app/)
 
